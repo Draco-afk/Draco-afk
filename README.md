@@ -20,9 +20,8 @@
 ```yaml
 name:      Yotsakorn Klahan
 role:      Student · Industrial internship
-focus:     [ NLP, Image Processing, Web Apps ]
-building:  Thai fake-news detection @ SANTI-team
-motto:     "ship it, then make it better"
+focus:     [  Web Apps ]
+
 ```
 
 ### `$ ls ./stack`
