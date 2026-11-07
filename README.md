@@ -19,7 +19,7 @@
 
 ```yaml
 name:      Yotsakorn Klahan
-role:      Student · Industrial owner 
+role:      Student · Industrial Muscle GYM owner · Industrial Muscle GYM WEB APP
 focus:     [  Web Apps ]
 
 ```
