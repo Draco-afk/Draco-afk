@@ -19,7 +19,7 @@
 
 ```yaml
 name:      Yotsakorn Klahan
-role:      Student · Industrial internship
+role:      Student · Industrial owner 
 focus:     [  Web Apps ]
 
 ```
