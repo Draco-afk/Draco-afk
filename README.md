@@ -33,8 +33,8 @@ focus:     [  Web Apps ]
 ### `$ cat stats.log`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Draco-afk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draco-afk&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Draco-afk&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Draco-afk&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ focus:     [  Web Apps ]
 ### `$ git log --graph`
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Draco-afk&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Draco-afk&theme=github_dark" />
 </p>
 
 <!-- ═══════════ FOOTER ═══════════ -->
