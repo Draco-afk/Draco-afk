@@ -45,6 +45,34 @@ focus:     [ Web Apps ]
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00e5ff" />
 </p>
 
+### `$ ls ./projects`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[⚡ FinFlow2](https://github.com/Draco-afk/FinFlow2)**<br/>
+<sub>Personal finance flow web app</sub><br/><br/>
+<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=00e5ff" />
+
+</td>
+<td width="33%" valign="top">
+
+**[🏋️ Industrial-Muscle-Fitness](https://github.com/Draco-afk/Industrial-Muscle-Fitness)**<br/>
+<sub>Gym management system</sub><br/><br/>
+<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=00e5ff" />
+
+</td>
+<td width="33%" valign="top">
+
+**[🛰️ thai-fakenews](https://github.com/SANTI-team/thai-fakenews)**<br/>
+<sub>AI that detects Thai fake news · team project</sub><br/><br/>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00e5ff" />
+
+</td>
+</tr>
+</table>
+
 ### `$ cat stats.log`
 
 <p align="center">
@@ -60,6 +88,18 @@ focus:     [ Web Apps ]
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Draco-afk&theme=tokyonight" />
+</p>
+
+### `$ ./city --render 3d`
+
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+### `$ snake --eat contributions`
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Draco-afk/Draco-afk/output/snake-dark.svg" />
 </p>
 
 <!-- ═══════════ FOOTER ═══════════ -->
